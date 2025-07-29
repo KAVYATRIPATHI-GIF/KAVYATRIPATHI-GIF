@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Kavya Tripathi
+#  Kavya Tripathi
 
 *Aspiring AI Developer | DSA Learner | UI/UX Enthusiast*
 
